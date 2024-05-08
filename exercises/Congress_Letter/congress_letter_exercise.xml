@@ -214,7 +214,7 @@
 
 			<opener>To the Honorable the Senate and House of Representatives of the United States in
 				Congress Assembled:</opener>
-			<p>The undersigned, Citisens of the <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30" cert="high">United States<precision match="@ref" precision="Unknown"/></placeName>, believing that under the present
+			<p>The undersigned, Citisens of the <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30" cert="high">United States<precision match="@ref" precision="Unknown"/></placeName><geo cert="high" xml:space="default"/>, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
 					right to vote, pray your Honorable Body to
 				enact a law during the present session that shall assist and protect them in the exercise of that
