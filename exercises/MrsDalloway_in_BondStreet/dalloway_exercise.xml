@@ -78,7 +78,7 @@
 	"id": "https://raw.githubusercontent.com/esthersole/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240508211133947",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-05-08T19:11:33.947Z",
-	"dcterms:modified": "2024-05-08T19:11:33.947Z",
+	"dcterms:modified": "2024-05-08T19:12:57.195Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/esthersole",
 		"@type": [
@@ -144,7 +144,7 @@
             <byline>BY VIRGINIA WOOLF</byline>
 
 
-            <p><persName key="Dalloway, Clarissa" ref="http://viaf.org/viaf/766159234400703371493/" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
+            <p><persName key="Clarissa Dalloway" ref="http://viaf.org/viaf/766159234400703371493/" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
             <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
