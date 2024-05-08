@@ -144,7 +144,7 @@
             <byline>BY VIRGINIA WOOLF</byline>
 
 
-            <p><persName key="Clarissa Dalloway" ref="http://viaf.org/viaf/766159234400703371493/" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
+            <p><persName key="Clarissa Dalloway" ref="http://viaf.org/viaf/766159234400703371493/" type="fictional">Mrs Dalloway</persName> said she would buy the <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" key="glove" ref="http://www.wikidata.org/entity/Q169031">gloves</objectName> herself.</p>
             <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
@@ -177,7 +177,7 @@
             <p>"We've just come up" said Hugh Whitbread. "Unfortunately to see doctors."</p>
             <p>"Milly?" said Mrs Dalloway, instantly compassionate.</p>
             <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
-            <p>"First rate!" said Clarissa.</p>
+            <p>"First rate!" said <persName key="Clarissa Dalloway">Clarissa</persName>.</p>
             <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
                probably that, Hugh's manner had said so, said it perfectly—dear old Hugh,
                thought Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how
